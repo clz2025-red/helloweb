@@ -4,6 +4,7 @@
 	int dan = Integer.parseInt(request.getParameter("dan"));
 %>
 
+html  java
 
 <!DOCTYPE html>
 <html>
